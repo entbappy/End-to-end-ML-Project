@@ -73,7 +73,7 @@ Now open up your local host 0.0.0.0:8080
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 566373416292.dkr.ecr.us-east-1.amazonaws.com/chicken
+    - Save the URI: 136566696263.dkr.ecr.us-east-1.amazonaws.com/mlproject
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
@@ -118,4 +118,4 @@ Now open up your local host 0.0.0.0:8080
 
 
 
-
+ git config --global user.name "entbappy"
